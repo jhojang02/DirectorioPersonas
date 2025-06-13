@@ -3,11 +3,11 @@ function Directorio({ nombre, cargo, email, imagen, fechaNacimiento}) {
 const edad = CalcularEdad(fechaNacimiento);
     return (
     <div className='producto'>
-        <h2>{nombre}</h2>
+        <h1>{nombre}</h1>
         <p><strong>Cargo: </strong>{cargo}</p>
         <p><strong>Correo: </strong>{email}</p>
         <img src={imagen} alt='Foto de la Persona'></img>
-        <p><strong>Edad: </strong>{edad}</p>
+        <p><strong>Edad: </strong>{edad} años</p>
     </div>
     )
 }

@@ -6,7 +6,7 @@ function App() {
     <div className='app'>
       <h1>Directorio de Personas</h1>
       
-      <div className='lista-productos'>
+      <div className='Directorio'>
         <Directorio 
           nombre="Juanito"
           cargo="Ingeniero"

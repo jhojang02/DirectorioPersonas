@@ -11,21 +11,21 @@ function App() {
           nombre="Juanito"
           cargo="Ingeniero"
           email="juanito@gmail.com"
-          imagen="Juanito.jpg"
+          imagen="/imagenes/Juanito.jpg"
           fechaNacimiento="2010-04-25"
         />
         <Directorio 
           nombre="Pepito"
           cargo="Maestro"
           email="pepito@gmail.com"
-          imagen="Pepito.jpg"
+          imagen="/imagenes/Pepito.jpg"
           fechaNacimiento="2004-02-13"
         />
         <Directorio 
           nombre="Pepita"
           cargo="Conductor"
           email="pepita@gmail.com"
-          imagen="Pepita.jpg"
+          imagen="/imagenes/Pepita.jpg"
           fechaNacimiento="1993-12-12"
         />
       </div>
@@ -34,21 +34,21 @@ function App() {
           nombre="Martin"
           cargo="Ingeniero"
           email="martin@gmail.com"
-          imagen="Hombre.jpg"
+          imagen="/imagenes//Hombre.jpg"
           fechaNacimiento="2007-04-25"
         />
         <Directorio 
           nombre="Martina"
           cargo="Doctor"
           email="martina@gmail.com"
-          imagen="Mujer.jpg"
+          imagen="/imagenes/Mujer.jpg"
           fechaNacimiento="2003-02-13"
         />
         <Directorio 
           nombre="Ermenegildo"
           cargo="Inventor"
           email="Ermenegildo@gmail.com"
-          imagen="Hombre2.jpg"
+          imagen="/imagenes/Hombre2.jpg"
           fechaNacimiento="1963-12-12"
         />
       </div>
@@ -57,21 +57,21 @@ function App() {
           nombre="Manuela"
           cargo="Vendedora"
           email="manuela@gmail.com"
-          imagen="Mujer2.jpg"
+          imagen="/imagenes/Mujer2.jpg"
           fechaNacimiento="1994-04-25"
         />
         <Directorio 
           nombre="Manuel"
           cargo="Contador"
           email="manuel@gmail.com"
-          imagen="Hombre3.jpg"
+          imagen="/imagenes/Hombre3.jpg"
           fechaNacimiento="2004-02-13"
         />
         <Directorio 
           nombre="Saray"
           cargo="Bailarina"
           email="saray@gmail.com"
-          imagen="Mujer3.jpg"
+          imagen="/imagenes/Mujer3.jpg"
           fechaNacimiento="2000-12-12"
         />
       </div>
